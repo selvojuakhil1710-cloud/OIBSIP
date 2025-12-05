@@ -1,0 +1,8 @@
+Advanced-BMI-Calculator/
+│
+├── main.py                 # Main Python script (Tkinter GUI + BMI logic)
+├── bmi_history.json        # JSON file to store user BMI history (auto-created)
+├── README.md               # Project documentation
+├── .gitignore              # Git ignore file
+└── requirements.txt        # Required Python packages (optional)
+
